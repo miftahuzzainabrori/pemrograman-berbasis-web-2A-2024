@@ -1,0 +1,15 @@
+File tes.css
+th{
+    height : 60px;
+    color :red;
+    background-color: black;
+    }  
+table{
+    background-color: rgb(82, 88, 82);
+    color:white;
+}
+
+
+body{
+    background-color: rgb(54, 134, 44);
+}
